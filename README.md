@@ -1,4 +1,4 @@
 cis399
 ======
 
-cis399 files
+playground repository for cis399 files
