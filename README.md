@@ -6,4 +6,4 @@ add toy fork program
 
 publish my public key
 
-this is u2's change
+this is u2's change that conflicted with u1's change
